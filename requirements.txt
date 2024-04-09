@@ -78,3 +78,6 @@ yapf==0.32.0
 yarl==1.9.2
 zipp==3.16.2
 retry==0.9.2
+security==1.2.1 \
+    --hash=sha256:4ca5f8cfc6b836e2192a84bb5a28b72c17f3cd1abbfe3281f917394c6e6c9238
+    --hash=sha256:0a9dc7b457330e6d0f92bdae3603fecb85394beefad0fd3b5058758a58781ded
